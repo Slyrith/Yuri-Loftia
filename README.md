@@ -55,7 +55,6 @@ Free Loftia Cheats <br>
 - Nearest loose material
 - Nearest hammer node
 - Previous position / return
-- Browse loaded destinations by category and type, then click to teleport
 
 ### Automation
 - Auto perfect chest
