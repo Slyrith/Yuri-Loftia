@@ -76,4 +76,4 @@ Free Loftia Cheats <br>
 - Draggable menu; Insert shows/hides it
 
 ## Screenshots
-<img width="904" height="561" alt="image" src="https://github.com/user-attachments/assets/f54e297f-0b95-47bf-acd1-6fd1c2dd5058" />
+<img width="904" height="561" alt="image" src="https://i.imgur.com/SP1c1sO.png" />
